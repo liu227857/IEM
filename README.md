@@ -47,4 +47,4 @@ Optional Input:
 This software is released for academic and research purposes only.  
 Commercial use is not permitted without prior written permission from the authors.
 
-© 2024 Shu-Yung Liu and Mei-Heng Yueh
+© 2026 Shu-Yung Liu and Mei-Heng Yueh
