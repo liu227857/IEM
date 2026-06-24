@@ -1,7 +1,7 @@
 <h1 align="left"> Volume-Preserving Mesh Parameterization</h1>
 
 <p align="left">
-  <img src="IEM_Brain_M.png" width="20%" > &nbsp; 
+  <img src="IEM_Brain_M.png" width="20%" > &nbsp; &nbsp; 
   <img src="IEM_Brain_S.png" width="20%" >
 </p>
 
